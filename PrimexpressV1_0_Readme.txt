@@ -1,22 +1,22 @@
 ~~~~Primexpress 1.0~~~~
 
 data wydania: 18.10.2018
-autor: �ukasz Rybak
+autor: Łukasz Rybak
 
 
-Program testowany w �rodowisku:
+Program testowany w środowisku:
  
 Windows 7 Professional 64-bit SP1
-przegl�darka Google Chrome Wersja 69.0.3497.100 (Oficjalna wersja) (64-bitowa)
+przeglądarka Google Chrome Wersja 69.0.3497.100 (Oficjalna wersja) (64-bitowa)
 procesor AMD Ryzen 3 1300X Quad-Core 3.5 GHz
-pami�� RAM 8GB
+pamięć RAM 8GB
 
 
 WYMAGANIA:
 
 
 *********************************
--przegl�darka Google Chrome, do pobrania pod linkiem:
+-przeglądarka Google Chrome, do pobrania pod linkiem:
 
 
 https://www.google.com/intl/pl_ALL/chrome/
@@ -36,14 +36,17 @@ pip install selenium
 
 *********************************
 
--sterownik Selenium dla przegl�darki Google Chrome, do pobrania pod linikiem:
+-sterownik Selenium dla przeglądarki Google Chrome, do pobrania pod linikiem:
 
 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 
-i skopiowania pobranego pliku do katalogu g��wnego zainstalowanej wersji Python'a
+i skopiowania pobranego pliku do katalogu głównego zainstalowanej wersji Python'a
 
+*********************************
+
+w celu użycia programu Primexpress, należy skopiować plik z kodem źródłowym do katalogu w ścieżce wyszukiwania PYTHONPATH, lub do katalogu głównego aktualnie zainstalowanej wersji Python'a
 
 
 
