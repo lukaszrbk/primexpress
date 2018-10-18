@@ -1,22 +1,22 @@
 ~~~~Primexpress 1.0~~~~
 
 data wydania: 18.10.2018
-autor: kasz Rybak
+autor: 艁ukasz Rybak
 
 
-Program testowany w 渞odowisku:
+Program testowany w 艣rodowisku:
  
 Windows 7 Professional 64-bit SP1
-przegl筪arka Google Chrome Wersja 69.0.3497.100 (Oficjalna wersja) (64-bitowa)
+przegl膮darka Google Chrome Wersja 69.0.3497.100 (Oficjalna wersja) (64-bitowa)
 procesor AMD Ryzen 3 1300X Quad-Core 3.5 GHz
-pami赕 RAM 8GB
+pami臋膰 RAM 8GB
 
 
 WYMAGANIA:
 
 
 *********************************
--przegl筪arka Google Chrome, do pobrania pod linkiem:
+-przegl膮darka Google Chrome, do pobrania pod linkiem:
 
 
 https://www.google.com/intl/pl_ALL/chrome/
@@ -36,14 +36,17 @@ pip install selenium
 
 *********************************
 
--sterownik Selenium dla przegl筪arki Google Chrome, do pobrania pod linikiem:
+-sterownik Selenium dla przegl膮darki Google Chrome, do pobrania pod linikiem:
 
 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 
-i skopiowania pobranego pliku do katalogu g丑wnego zainstalowanej wersji Python'a
+i skopiowania pobranego pliku do katalogu g艂贸wnego zainstalowanej wersji Python'a
 
+----------------------------------------------------------
+
+Kolejne wydania w za艂o偶eniu maj膮 obj膮膰 przej艣cie cz臋艣ci proces贸w w tryb pracy wielow膮tkowej (w szczeg贸lno艣ci wprowadzania sekwencji do narz臋dzia projektuj膮cego primery), zorientowanie obiektowe kodu (sekwencje ekson贸w zbierane b臋d膮 i modyfikowane w obr臋bie wyspecjalizowanej klasy) i udost臋pnienie angloj臋zycznej wersji dokumentacji kodu.
 
 
 
