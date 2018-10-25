@@ -809,7 +809,7 @@ for seqdict in rawexon.values():
 
 if verifyflag == 1: #wykonywane tylko jeżeli użytkownik zażądał weryfikacji sekwencji primerów
 	print('\n'+'-'*30+'\nTrwa przetwarzanie danych na temat zmienności populacyjnych w sekwencji genu...\n[Odśwież okno przeglądarki gdy czas oczekiwania na załadowanie treści wynosi powyżej 3 minut]\n')
-	driver.get('http://gnomad-beta.broadinstitute.org/') #przejście do bazy danych na temat zmienności populacyjnych w genomie
+	driver.get('http://gnomad-old.broadinstitute.org/') #przejście do bazy danych na temat zmienności populacyjnych w genomie
 	WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "home-searchbox-input")))
 	elem21 = driver.find_element_by_id("home-searchbox-input") #znalezienie okna wyszukiwania
 	elem21.clear()
