@@ -868,3 +868,5 @@ else: #zachowanie programu gdy połączenie z Primer 3 Plus się powiedzie
 print('\n\n'+'-'*30+'\nUdało się odnaleźć powyższe sekwencje primerów dla wersji %s genu %s' %(seqver,req))
 
 driver.quit() #zamyka przeglądarkę po wykonaniu zadania
+
+final=input('\n\n\nWciśnij dowolny klawisz aby zakończyć działanie programu...')
