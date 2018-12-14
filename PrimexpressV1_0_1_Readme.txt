@@ -1,6 +1,7 @@
-~~~~Primexpress 1.0~~~~
+~~~~Primexpress 1.0.1~~~~
 
-data wydania: 18.10.2018
+data wydania wersji 1.0: 18.10.2018
+data wydania wersji 1.0.1: 13.12.2018
 autor: Łukasz Rybak
 
 
