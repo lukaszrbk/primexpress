@@ -1,7 +1,8 @@
-~~~~Primexpress 1.0.1~~~~
+~~~~Primexpress README~~~~
 
 data wydania wersji 1.0: 18.10.2018
-data wydania wersji 1.0.1: 13.12.2018
+data wydania wersji 1.0.1: 13.12.2018 - poprawki dla zgodności interakcji z nowym interfejsem części baz danych
+data wydania wersji 1.1: 23.12.2018 - dodane wyszukiwanie sekwencji genu w dwóch równoległych wątkach oraz przeniesienie wyszukiwania poszczególnych primerów do osobnych, równoczesnych procesów (ich liczba zależy od liczby rdzeni procesora)
 autor: Łukasz Rybak
 
 
@@ -47,7 +48,7 @@ i skopiowania pobranego pliku do katalogu głównego zainstalowanej wersji Pytho
 
 ----------------------------------------------------------
 
-Kolejne wydania w założeniu mają objąć przejście części procesów w tryb pracy wielowątkowej (w szczególności wprowadzania sekwencji do narzędzia projektującego primery), zorientowanie obiektowe kodu (sekwencje eksonów zbierane będą i modyfikowane w obrębie wyspecjalizowanej klasy) i udostępnienie anglojęzycznej wersji dokumentacji kodu.
+Kolejne wydania w założeniu mają objąć stworzenie wyspeljalizowanej klasy dla sekwencji eksonów, w obrębie której będą zbierane i modyfikowane, opakowanie logiki w prosty, graficzny interfejs użytkownika, a także udostępnienie anglojęzycznej wersji dokumentacji kodu.
 
 
 
